@@ -1,3 +1,6 @@
 dataset
 .ipynb_checkpoints
 .vscode
+brain_tumor
+*.h5
+*.keras
