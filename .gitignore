@@ -4,3 +4,4 @@ dataset
 brain_tumor
 *.h5
 *.keras
+*.zip
